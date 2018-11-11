@@ -1,2 +1,2 @@
 # Information_Retrieval
-Create an information retrival application using javafx
+Create a simple information retrival system using javafx
